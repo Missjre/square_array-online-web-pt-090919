@@ -3,3 +3,5 @@ def calls on each
     puts(numbers)=(:each)
     square_array(numbers)
   end
+  
+  def 
