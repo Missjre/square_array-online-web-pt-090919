@@ -11,3 +11,4 @@ def calls on each
     puts(numbers).to_not receive(:inject)
     square_array(numbers)
   end
+
