@@ -12,3 +12,8 @@ def calls on each
     square_array(numbers)
   end
 
+def square the elements in an array
+    puts(square_array([1,2,3])=([1,4,9])
+    puts(square_array([9,10,16,25])=([81,100,256,625])
+  end
+end
